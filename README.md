@@ -24,7 +24,7 @@ Sitio web personal con detalles acerca de mi, proyectos y contacto.
  
 🔗 **Repositorio:** https://github.com/AlexanderManriquez/evaluacion-portafolio
 
-🔗 **Live Demo:** https://alexandermanriquez.github.io/evaluacion-portafolio/
+🔗 **Live Demo:** https://evaluacion-portafolio-three.vercel.app/
 
 🎨 **Stack:** HTML, CSS, Bootstrap, JavaScript y JQuery
 
